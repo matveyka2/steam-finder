@@ -46,7 +46,7 @@ This Python script allows you to launch Steam games or applications in sequence 
 If the current game number is 3, the script will launch `steam://launch/4`, and so on.
 
 
-# Steam Launcher
+# Steam finder
 
 Этот скрипт на Python позволяет запускать игры или приложения Steam поочередно, увеличивая номер с каждым запуском. Скрипт читает и обновляет последний использованный номер игры, что позволяет автоматически запускать несколько игр/программ с заданным интервалом.
 
